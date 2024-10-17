@@ -258,20 +258,16 @@ hr {
   text-align: center;
   padding-top: var(--padding);
   box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);
+  background-color: #4e3629;
+  font-weight: 600;
 }
 .project-item2 {
   border: 1px solid var(--dark-grey-text);
   text-align: center;
   padding-top: var(--padding);
   box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);
-}
-
-.project-item {
-  background-color: #4e3629;
-}
-
-.project-item2 {
   background-color: #a3c6c4;
+  font-weight: 600;
 }
 
 .project-item a {
@@ -285,6 +281,10 @@ hr {
   font-size: 1rem;
 }
 .project-item a:hover {
+  transition: color 0.3s ease;
+  color: var(--medium-grey);
+}
+.project-item2 a:hover {
   transition: color 0.3s ease;
   color: var(--medium-grey);
 }
