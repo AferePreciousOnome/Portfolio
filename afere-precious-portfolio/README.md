@@ -30,6 +30,6 @@ I struggled in making my website responsive, since am still about Media query, b
 
 https://afere-precious-portfolio.netlify.app/
 
-# link to my project on github
+# link to Github project
 
 https://github.com/AferePreciousOnome/Portfolio/tree/Module-HTML-CSS
