@@ -28,7 +28,7 @@ I struggled in making my website responsive, since am still about Media query, b
 
 # link to my deployed project
 
-https://precious-afere-porfolio.netlify.app/
+https://afere-precious-portfolio.netlify.app/
 
 # link to my project on github
 
