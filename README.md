@@ -32,4 +32,4 @@ https://precious-afere-porfolio.netlify.app/
 
 # link to my project on github
 
-https://github.com/AferePreciousOnome/Portfolio/tree/Module-HTML-CSS/afere-precious-porfolio
+https://github.com/AferePreciousOnome/Portfolio/tree/Module-HTML-CSS
